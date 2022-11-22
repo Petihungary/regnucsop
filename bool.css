@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color:white;
+    margin: 20px;
+}
+p{
+    text-align: left;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+    font-size: 50px;
+}
+#logo{
+height: 100px;
+}
